@@ -1,0 +1,10 @@
+C:\CoronaXml\obj\Debug\CoronaXml.csprojAssemblyReference.cache
+C:\CoronaXml\obj\Debug\CoronaXml.Properties.Resources.resources
+C:\CoronaXml\obj\Debug\CoronaXml.csproj.GenerateResource.cache
+C:\CoronaXml\obj\Debug\CoronaXml.csproj.CoreCompileInputs.cache
+C:\CoronaXml\bin\Debug\CoronaXml.exe.config
+C:\CoronaXml\bin\Debug\CoronaXml.exe
+C:\CoronaXml\bin\Debug\CoronaXml.pdb
+C:\CoronaXml\obj\Debug\CoronaXml.exe
+C:\CoronaXml\obj\Debug\CoronaXml.pdb
+C:\CoronaXml\obj\Debug\CoronaXml.Form1.resources
